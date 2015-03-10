@@ -14,3 +14,8 @@ git push deis master
 ```
 
 You can now surf to http://sample-hello-fsharp.example.com!
+
+
+## Notes
+
+You can find the dockerfile this is based on [at haf/dockerfiles](https://github.com/haf/dockerfiles).
