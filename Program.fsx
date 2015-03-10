@@ -3,7 +3,7 @@
 open System
 open System.IO
 
-Environment.CurrentDirectory <- __SOURCE_DIRECTORY__
+//Environment.CurrentDirectory <- __SOURCE_DIRECTORY__
 
 Paket.Dependencies.Install """
 source https://nuget.org/api/v2
